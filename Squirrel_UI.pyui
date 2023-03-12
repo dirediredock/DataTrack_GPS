@@ -1,0 +1,73 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{16, 17}, {287, 303}}",
+        "class" : "TextView",
+        "attributes" : {
+          "flex" : "WH",
+          "font_size" : 17,
+          "editable" : false,
+          "frame" : "{{140, 60}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "99CF8E02-7C22-411C-82A0-2A9C5C546409",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "textView",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{144, 353}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "flex" : "T",
+          "action" : "handle_switch",
+          "frame" : "{{215, 145}, {51, 31}}",
+          "class" : "Switch",
+          "uuid" : "BA1A2E26-B462-4795-A76A-76266AECF1A4",
+          "value" : false,
+          "name" : "eventSwitch"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{210, 353}, {33, 31}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "RT",
+          "font_size" : 18,
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "D5612F01-4635-403D-B727-676601ECC114",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "🐿️",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
