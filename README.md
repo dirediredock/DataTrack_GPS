@@ -14,7 +14,7 @@ git checkout -b desktop_edits
 git status
 ```
 
-When work of the day is complete, commit all changes on VS Code and `push`, then return to `main` for a fresh start next time.
+When work of the day is complete, commit all changes on VS Code and `push`, then `Squash and Merge` on GitHub, then return to `main` for a fresh start next time. 
 
 ```
 git push
