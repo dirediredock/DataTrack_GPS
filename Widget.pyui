@@ -1,0 +1,125 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{25, 122}, {268, 30}}",
+        "class" : "SegmentedControl",
+        "attributes" : {
+          "action" : "color_change",
+          "flex" : "W",
+          "segments" : "|Tree|Bench|Grass",
+          "frame" : "{{210, 256}, {120, 29}}",
+          "uuid" : "44693D43-2675-451B-A291-65334954E3B0",
+          "class" : "SegmentedControl",
+          "name" : "segmentedcontrol1"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{25, 84}, {268, 30}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "094B52B6-7603-40AC-8A76-DFEC211EF119",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Q1. What is it?",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{25, 423}, {268, 30}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "submit_survey",
+          "flex" : "WHTB",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Done",
+          "uuid" : "0DFCC628-F5C1-4CF8-A540-BD68C67E745F",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "button1",
+          "font_size" : 21
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{25, 198}, {268, 30}}",
+        "class" : "SegmentedControl",
+        "attributes" : {
+          "action" : "odor_change",
+          "flex" : "W",
+          "segments" : "|1|2|3|4|5",
+          "frame" : "{{210, 256}, {120, 29}}",
+          "uuid" : "3D79F31A-D787-4C8D-8723-F0127BCBBF0A",
+          "class" : "SegmentedControl",
+          "name" : "segmentedcontrol2"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{25, 160}, {268, 30}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "094B52B6-7603-40AC-8A76-DFEC211EF119",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Q2. How much do you like it?",
+          "name" : "label1",
+          "font_size" : 18
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{25, 26}, {268, 50}}",
+        "class" : "Label",
+        "attributes" : {
+          "alpha" : 1,
+          "font_name" : "SourceSansPro-Regular",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "094B52B6-7603-40AC-8A76-DFEC211EF119",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : " ",
+          "number_of_lines" : 0,
+          "name" : "label1",
+          "font_size" : 18
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
