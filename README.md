@@ -1,4 +1,4 @@
-# DataTrack_GPS
+QuantQual_TrackGPS
 Smartphone GPS data stream for citizen science.
 
 ### Git Setup Cheatsheet
